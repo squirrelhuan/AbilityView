@@ -5,8 +5,8 @@ package com.example.huan.abilityview.Model;
  */
 
 public class AbilityModel {
-    private String title;
-    private float value;
+    private String title;//每一项的名称
+    private float value;//属性的值范围0-10
 
     public AbilityModel(String title, float value) {
         this.title = title;
