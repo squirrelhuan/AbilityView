@@ -13,13 +13,14 @@ import android.graphics.PorterDuffXfermode;
 import android.graphics.RectF;
 import android.graphics.SweepGradient;
 import android.graphics.Xfermode;
-import android.support.annotation.Nullable;
 import android.text.TextPaint;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Toast;
+
+import androidx.annotation.Nullable;
 
 import com.example.huan.abilityview.Model.AbilityModel;
 
@@ -28,7 +29,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Created by aquirrelhuan on 2017/7/24.
+ * Created by squirrelhuan on 2017/7/24.
  */
 
 public class AbilityView extends View {

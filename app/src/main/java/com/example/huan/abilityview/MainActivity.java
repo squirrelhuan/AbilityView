@@ -1,7 +1,8 @@
 package com.example.huan.abilityview;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.huan.abilityview.Model.AbilityModel;
 import com.example.huan.abilityview.View.AbilityView;
